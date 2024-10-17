@@ -41,3 +41,5 @@ pypisrv
 # dotenv files
 .env*
 
+# controller binary
+controller/go-http
